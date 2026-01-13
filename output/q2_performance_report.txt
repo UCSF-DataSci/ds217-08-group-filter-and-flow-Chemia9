@@ -1,0 +1,21 @@
+                    facility_name provider_id     provider_name  years_experience           specialty
+4980  Cardiology Specialty Center      PR0346  Cameron Martinez                28            Oncology
+4979  Cardiology Specialty Center      PR0174     Alex Williams                15        Primary Care
+4999        City General Hospital      PR0466        Alex Brown                12         Dermatology
+4989        City General Hospital      PR0088       Alex Wilson                35         Orthopedics
+4995      Community Health Clinic      PR0065    Jamie Martinez                36           Radiology
+4992      Community Health Clinic      PR0486     Cameron Davis                18           Radiology
+4994     Emergency Medical Center      PR0327      Quinn Garcia                14  Emergency Medicine
+4978     Emergency Medical Center      PR0331       Quinn Smith                19        Primary Care
+4996        Northside Urgent Care      PR0204      Sam Anderson                15           Radiology
+4988        Northside Urgent Care      PR0342     Cameron Smith                19           Radiology
+4998    Oncology Treatment Center      PR0083     Taylor Wilson                24         Dermatology
+4997    Oncology Treatment Center      PR0174     Alex Williams                15        Primary Care
+4993        Pediatric Care Center      PR0031  Cameron Anderson                18         Dermatology
+4986        Pediatric Care Center      PR0136     Morgan Garcia                33           Neurology
+4977          Primary Care Clinic      PR0433       Riley Jones                19    General Practice
+4945          Primary Care Clinic      PR0176       Drew Miller                28    General Practice
+4976      Regional Medical Center      PR0457     Jordan Wilson                11            Oncology
+4975      Regional Medical Center      PR0211      Taylor Davis                16          Pediatrics
+4981    Surgical Specialty Center      PR0318       Casey Brown                15         Orthopedics
+4973    Surgical Specialty Center      PR0156     Morgan Miller                34          Psychiatry
